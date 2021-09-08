@@ -1,6 +1,6 @@
 ## Hi there, I'm Nomin 👋
 
-- 🔭 I’m currently working on https://www.wearejustice.life/
+- 🔭 I’m currently working on evidence-collecting app for victims of abuse, [Justice.](https://www.wearejustice.life/)
 - 🌱 I’m currently learning React
 - 📫 Contact me at nmnbatsaikhan@gmail.com
  
