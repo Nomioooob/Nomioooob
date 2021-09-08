@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning React
 - 📫 Contact me at nmnbatsaikhan@gmail.com
 - 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nomioooob&show_icons=true&theme=cobalt)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nomioooob&show_icons=true&theme=github_dark)
 
