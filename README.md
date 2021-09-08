@@ -1,4 +1,4 @@
-### Hi there, I'm Nomin 👋
+## Hi there, I'm Nomin 👋
 
 - 🔭 I’m currently working on https://www.wearejustice.life/
 - 🌱 I’m currently learning React
@@ -7,5 +7,7 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nomioooob&show_icons=true&theme=github_dark)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomioooob&layout=compact&theme=github_dark)](https://github.com/Nomioooob/github-readme-stats)
+ 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nmnbatsaikhan//)  
 
 
