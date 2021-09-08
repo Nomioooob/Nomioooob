@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on evidence-collecting app for victims of abuse, [Justice.](https://www.wearejustice.life/)
 - 🌱 I’m currently learning React
+- 🌏 I'm from Mongolia 🇲🇳, currently living in Japan 🇯🇵.
 - 📫 Contact me at nmnbatsaikhan@gmail.com
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nomioooob&show_icons=true&theme=github_dark)
